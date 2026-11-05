@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1061533520908",
+    "project_id": "quiz4-phone-verification",
+    "storage_bucket": "quiz4-phone-verification.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061533520908:android:e51bed12b39b3848e54a29",
+        "android_client_info": {
+          "package_name": "com.ahmad.otpverification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0Z7Ks97j2DNtUBWW95mE3wCR6fXB-PzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
